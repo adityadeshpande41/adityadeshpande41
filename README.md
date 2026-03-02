@@ -135,7 +135,7 @@ AI-powered financial analysis and portfolio recommendations
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 **LinkedIn:** [aditya-m-deshpande]((https://linkedin.com/in/aditya-m-deshpande/))
+- 💼 **LinkedIn:** [aditya-m-deshpande](https://linkedin.com/in/aditya-m-deshpande/)
 - 🌐 **Portfolio:** [aditya-deshpande.com](https://aditya-deshpande.com)
 - 📧 **Email:** amdnyu@gmail.com
 - 💬 **Chat with my AI:** [Try my AI chatbot](https://aditya-deshpande.com/chat)
